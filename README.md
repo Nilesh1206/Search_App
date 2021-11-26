@@ -59,7 +59,5 @@ Unlike a binary search tree, no node in the tree stores the key associated with 
 
 ## Contributors
 
-- [Rohit Kaushal](https://www.github.com/RohitKaushal7) <br>
-- [Nishit Attrey](https://www.github.com/NishitAttrey) <br>
-- [Vishal Shrivastava](https://www.github.com/vishalshrivastava16) <br>
+- [Nilesh Gopale](https://github.com/Nilesh1206) <br>
 
